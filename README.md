@@ -34,7 +34,7 @@ In summary, my career is marked by a commitment to developing high-quality, scal
     <td>2500+</td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://support.upwork.com/hc/article_attachments/18508714027923" ></td>
+    <td colspan="2"><img src="https://support.upwork.com/hc/article_attachments/18508714027923" style="width: 250px; height: auto;"></td>
   </tr>
 </table>
 
