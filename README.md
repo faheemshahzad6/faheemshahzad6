@@ -10,9 +10,9 @@
 In summary, my career is marked by a commitment to developing high-quality, scalable software solutions and advanced data systems that drive business success. I am always keen to explore new technologies and methodologies that push the boundaries of what's possible in software and data science.      
    
 ### Connect with me:
-| LinkedIn | Upwork |
-|----------|--------|
-| [![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/faheem-shehzad-846736231/) | [![Upwork](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/256px-Upwork-logo.svg.png)](https://www.upwork.com/freelancers/faheempythonexpert) |
+| LinkedIn | Upwork                                                                                                                                                                  |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/faheem-shehzad-846736231/) | [![Upwork](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/100px-Upwork-logo.svg.png)](https://www.upwork.com/freelancers/faheempythonexpert) |
 
 
 <table>
