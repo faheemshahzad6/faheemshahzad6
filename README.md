@@ -12,7 +12,7 @@ In summary, my career is marked by a commitment to developing high-quality, scal
 ### Connect with me:
 | LinkedIn | Upwork |
 |----------|--------|
-| [![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](YOUR_LINKEDIN_PROFILE_URL) | [![Upwork](https://upload.wikimedia.org/wikipedia/commons/3/3b/Upwork_Logo.png)](YOUR_UPWORK_PROFILE_URL) |
+| [![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/faheem-shehzad-846736231/) | [![Upwork](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/256px-Upwork-logo.svg.png)](https://www.upwork.com/freelancers/faheempythonexpert) |
 
 
 <table>
