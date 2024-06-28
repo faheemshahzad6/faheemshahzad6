@@ -19,19 +19,19 @@ In summary, my career is marked by a commitment to developing high-quality, scal
   <tr>
     <td rowspan="5"><b>Upwork</b></td>
     <td><b>Earnings</b></td>
-    <td>$5000+/month</td>
+    <td>$40k+</td>
   </tr>
   <tr>
     <td><b>Job Success</b></td>
-    <td>95%</td>
+    <td>100%</td>
   </tr>
   <tr>
     <td><b>Projects Completed</b></td>
-    <td>120+</td>
+    <td>45+</td>
   </tr>
   <tr>
     <td><b>Hours Worked</b></td>
-    <td>1800+</td>
+    <td>2500+</td>
   </tr>
   <tr>
     <td colspan="2"><img src="https://support.upwork.com/hc/article_attachments/18508714027923" ></td>
