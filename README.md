@@ -1,5 +1,5 @@
 ### About Me:    
-👋 Hello! I'm a seasoned Python developer with extensive experience in backend development, data science, and machine learning. My career is highlighted by high-quality, scalable software solutions that enhance system functionality and drive business success. I am passionate about exploring new technologies and methodologies that push the boundaries of software and data science.
+👋 Hello! I'm a seasoned Python developer with 5+ years of experience in backend development, data science, and machine learning. My career is highlighted by high-quality, scalable software solutions that enhance system functionality and drive business success. I am passionate about exploring new technologies and methodologies that push the boundaries of software and data science.
 
 ### Expertise 🛠️
 - **Artificial Intelligence** 🧠: Proficient in statistical modeling, natural language processing, and neural networks, with a focus on deep learning and reinforcement learning.
