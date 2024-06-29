@@ -1,14 +1,19 @@
 ### About Me:    
-👋 Hello! I’m a seasoned Python developer with deep expertise in backend development, data science, and machine learning. My professional portfolio showcases a dynamic range of applications, from robust API integrations to advanced predictive modeling, all designed to enhance system functionality and business insights.
+👋 Hello! I'm a seasoned Python developer with extensive experience in backend development, data science, and machine learning. My career is highlighted by high-quality, scalable software solutions that enhance system functionality and drive business success. I am passionate about exploring new technologies and methodologies that push the boundaries of software and data science.
 
-🧠 As a data scientist and AI specialist, I leverage statistical modeling, natural language processing, and neural networks to develop sophisticated machine learning models. My expertise includes deploying deep learning architectures and reinforcement learning techniques to solve complex problems, refine algorithms, and optimize AI-driven systems for enhanced decision-making processes.
+### Expertise 🛠️
+- **Artificial Intelligence** 🧠: Proficient in statistical modeling, natural language processing, and neural networks, with a focus on deep learning and reinforcement learning.
+- **Backend Development** 💻: Expertise in Django, Flask, API development, microservices architecture, and cloud integrations using AWS and Azure.
+- **Data Management** 🗃️: Skilled in both relational and non-relational database design, emphasizing scalability and security.
+- **Web Scraping** 🔍: Advanced in automation and data extraction techniques, effectively managing anti-scraping technologies and maintaining efficient data pipelines.
+- **Mobile Development** 📱: Cross-platform mobile applications using Flutter.
+- **Cloud Services** ☁️: Proficient in AWS, Azure, GCP, and Heroku, with experience in SageMaker and Runpod for model deployment.
 
-💻 In backend development, my proficiency extends beyond Django and Flask to include comprehensive API design and management, microservices architecture, and cloud computing integrations, primarily using platforms like AWS and Azure. My design and implementation of relational and non-relational databases ensure robust, scalable solutions, with a focus on high availability and security.
+### Education 🎓
+- Andrew NG ML Advance Course
+- Specialization in Deep Learning from Coursera.
 
-🔍 My skills in web scraping are complemented by advanced knowledge of automation and data extraction techniques. I effectively handle anti-scraping technologies, manage data pipelines, and integrate extracted data with existing business processes to provide continuous insights. My work includes sophisticated bot management and rate limiting strategies to maintain access and efficiency.
 
-In summary, my career is marked by a commitment to developing high-quality, scalable software solutions and advanced data systems that drive business success. I am always keen to explore new technologies and methodologies that push the boundaries of what's possible in software and data science.      
-   
 ### Connect with me:
 | LinkedIn | Upwork                                                                                                                                                                  |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
