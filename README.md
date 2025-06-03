@@ -20,29 +20,6 @@
 | [![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/faheem-shehzad-846736231/) | [![Upwork](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/100px-Upwork-logo.svg.png)](https://www.upwork.com/freelancers/faheempythonexpert) |
 
 
-<table>
-  <tr>
-    <td rowspan="5"><b>Upwork</b></td>
-    <td><b>Earnings</b></td>
-    <td>$40k+</td>
-  </tr>
-  <tr>
-    <td><b>Job Success</b></td>
-    <td>100%</td>
-  </tr>
-  <tr>
-    <td><b>Projects Completed</b></td>
-    <td>45+</td>
-  </tr>
-  <tr>
-    <td><b>Hours Worked</b></td>
-    <td>2500+</td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://support.upwork.com/hc/article_attachments/18508714027923" style="width: 250px; height: auto;"></td>
-  </tr>
-</table>
-
 
 
 ### Working on: 🚀
